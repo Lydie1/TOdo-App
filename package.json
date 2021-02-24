@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Angelus123/ToDo-App.git"
+    "url": "https://https://github.com/Lydie1/TOdo-App.git"
   },
   "dependencies": {
     "@babel/cli": "^7.8.3",
@@ -32,10 +32,10 @@
     "nodemon": "^2.0.7",
     "validator": "^13.5.2"
   },
-  "author": "Felix",
+  "author": "Lydie",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Angelus123/Patient-registration/issues"
+    "url": "https://https://github.com/Lydie1/TOdo-App/issues"
   },
-  "homepage": "https://github.com/Angelus123/ToDo-App/blob/Develop"
+  "homepage": "https://https://github.com/Lydie1/TOdo-App/blob/Develop"
 }

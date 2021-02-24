@@ -24,7 +24,7 @@ next()
 // console.log(app.get('env')
 
 app.use('/api/v1/user',UserRouter)
-app.use('/api/v1/task',bookRoute)
+app.use('/api/v1/book',bookRoute)
 
 app.all('*', (req,res,next) => {
  
